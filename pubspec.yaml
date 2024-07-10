@@ -1,8 +1,7 @@
 name: flutter_pivoting_ring
 description: "A customizable pivoting ring widget for Flutter applications."
 version: 0.0.1
-homepage: https://github.com/your-username/flutter_pivoting_ring
-
+homepage: https://github.com/PhineasKitunga/flutter_pivoting_ring
 environment:
   sdk: '>=3.4.3 <4.0.0'
   flutter: ">=1.17.0"
